@@ -4,5 +4,5 @@
 > We implement pure AI stuff
 
 
-Try out this challenge, and find out which one is a pure *ML model prediction* and which on is a *statistical* one!
+Try out this challenge, and find out which one is a pure *ML model prediction* and which one is a *statistical* one?
 >Link: https://huggingface.co/spaces/vinayin/mockml
